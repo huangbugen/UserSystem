@@ -1,0 +1,11 @@
+{ "Time": "2024-08-08 16:54:37.9082", "Level": "Error", "Message": "---------- RemoteServiceErrorInfo ----------\r\n{\r\n  \"code\": null,\r\n  \"message\": \"不存在 id =  的实体 User！\",\r\n  \"details\": null,\r\n  \"data\": null,\r\n  \"validationErrors\": null\r\n}\r\n" }
+{ "Time": "2024-08-08 16:54:37.9305", "Level": "Error", "Message": "There is no such an entity given id. Entity type: UserSystem.Domain.Account.User" }
+{ "Time": "2024-08-08 16:54:48.7785", "Level": "Error", "Message": "---------- RemoteServiceErrorInfo ----------\r\n{\r\n  \"code\": null,\r\n  \"message\": \"不存在 id =  的实体 User！\",\r\n  \"details\": null,\r\n  \"data\": null,\r\n  \"validationErrors\": null\r\n}\r\n" }
+{ "Time": "2024-08-08 16:54:48.7785", "Level": "Error", "Message": "There is no such an entity given id. Entity type: UserSystem.Domain.Account.User" }
+{ "Time": "2024-08-08 16:54:54.2428", "Level": "Error", "Message": "---------- RemoteServiceErrorInfo ----------\r\n{\r\n  \"code\": null,\r\n  \"message\": \"不存在 id =  的实体 User！\",\r\n  \"details\": null,\r\n  \"data\": null,\r\n  \"validationErrors\": null\r\n}\r\n" }
+{ "Time": "2024-08-08 16:54:54.2428", "Level": "Error", "Message": "There is no such an entity given id. Entity type: UserSystem.Domain.Account.User" }
+{ "Time": "2024-08-08 16:55:22.9133", "Level": "Error", "Message": "---------- RemoteServiceErrorInfo ----------\r\n{\r\n  \"code\": null,\r\n  \"message\": \"不存在 id =  的实体 User！\",\r\n  \"details\": null,\r\n  \"data\": null,\r\n  \"validationErrors\": null\r\n}\r\n" }
+{ "Time": "2024-08-08 16:55:22.9133", "Level": "Error", "Message": "There is no such an entity given id. Entity type: UserSystem.Domain.Account.User" }
+{ "Time": "2024-08-08 16:55:47.7499", "Level": "Error", "Message": "---------- RemoteServiceErrorInfo ----------\r\n{\r\n  \"code\": null,\r\n  \"message\": \"不存在 id =  的实体 User！\",\r\n  \"details\": null,\r\n  \"data\": null,\r\n  \"validationErrors\": null\r\n}\r\n" }
+{ "Time": "2024-08-08 16:55:47.7499", "Level": "Error", "Message": "There is no such an entity given id. Entity type: UserSystem.Domain.Account.User" }
+{ "Time": "2024-08-08 17:01:42.8691", "Level": "Error", "Message": "错误" }

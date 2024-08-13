@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Volo.Abp.BlobStoring.Minio" Version="8.1.4" />
+    <PackageReference Include="Volo.Abp.Core" Version="8.1.4" />
+    <PackageReference Include="Volo.Abp.Ddd.Domain" Version="8.1.4" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="8.1.4" />
+    <PackageReference Include="Qubiancheng.Abp.AspNet.JwtBearer" Version="1.0.0" />
+    <PackageReference Include="Qubiancheng.Abp.Microservice.Consul" Version="1.0.2" />
+    <PackageReference Include="Volo.Abp.Caching" Version="8.1.4" />
+    <PackageReference Include="Volo.Abp.Caching.StackExchangeRedis" Version="8.1.4" />
+    <PackageReference Include="NLog" Version="5.3.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.11" />
+    <PackageReference Include="Volo.Abp.AspNetCore.SignalR" Version="8.1.4" />
+  </ItemGroup>
+
+</Project>
